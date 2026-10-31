@@ -37,6 +37,7 @@ Docker Composeを使い、Web・AP・DBなど複数のコンテナをまとめ�
 5. Enable integration with additional distros:のFalseになっているディストリビューションをTrue
 6. [[WSL2#5.2. WSL2を再起動|WSL2を再起動]]
 ### ディストリビューション
+1. 上記の[[#DockerDesktop]]が完了後
 
 ## 4. 使用
 
