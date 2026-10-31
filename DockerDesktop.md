@@ -44,7 +44,7 @@ docker images
 docker volume ls
 docker network ls
 ```
-2. 
+2. Docker Composeを試す
 
 ## 4. 使用
 
