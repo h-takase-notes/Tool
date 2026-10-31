@@ -32,7 +32,7 @@ Docker Composeを使い、Web・AP・DBなど複数のコンテナをまとめ�
 1. settingを開く
 2. serch窓に「General」を入力
 3. Go To classic Settingsをクリック
-4. 
+4. Resources→
 
 
 ## 4. 使用
