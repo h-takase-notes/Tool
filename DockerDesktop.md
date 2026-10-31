@@ -31,7 +31,8 @@ Docker Composeを使い、Web・AP・DBなど複数のコンテナをまとめ�
 ## 3. 設定
 1. settingを開く
 2. serch窓に「General」を入力
-3. 
+3. Go To classic Settingsをクリック
+4. 
 
 
 ## 4. 使用
