@@ -29,12 +29,13 @@ Docker Composeを使い、Web・AP・DBなど複数のコンテナをまとめ�
 - WSL 2を使用する選択肢が表示されたら、有効にする
 - インストールが完了したら、Docker Desktopを起動する
 ## 3. 設定
-### 
+### DockerDesktop
 1. settingを開く
 2. serch窓に「General」を入力
 3. Go To classic Settingsをクリック
 4. Resources→WSL Integration に移動
 5. Enable integration with additional distros:のFalseになっているディストリビューションをTrue
+### 
 ## 4. 使用
 
 
