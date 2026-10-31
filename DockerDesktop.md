@@ -35,6 +35,7 @@ Docker Composeを使い、Web・AP・DBなど複数のコンテナをまとめ�
 3. Go To classic Settingsをクリック
 4. Resources→WSL Integration に移動
 5. Enable integration with additional distros:のFalseになっているディストリビューションをTrue
+6. [[WSL2を再起動
 ### ディストリビューション
 
 ## 4. 使用
